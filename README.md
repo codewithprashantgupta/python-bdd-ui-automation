@@ -21,20 +21,20 @@ Follow the steps below to set up the framework and run your tests.
 
 ####  1. Clone this repository and navigate to the project directory:
 ```bash
-   git clone <repository-url>
+git clone <repository-url>
 ```
 
 ####  2. Create and activate a virtual environment:
 ```bash
-    python3 -m venv venv-bdd
-    cd venv-bdd/bin/
-    . ./activate
+python3 -m venv venv-bdd
+cd venv-bdd/bin/
+. ./activate
 ```
 
 ####  3. Install the required dependencies:
 ```bash
-    cd python-bdd/
-    pip install -r requirements.txt
+cd python-bdd/
+pip install -r requirements.txt
 ```
 
 
