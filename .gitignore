@@ -1,0 +1,12 @@
+__pycache__/
+**/__pycache__/
+
+responses/
+
+behave.json
+xray_report.json
+
+.idea/
+.coverage
+coverage.xml
+.config.ini
