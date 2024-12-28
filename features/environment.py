@@ -65,6 +65,4 @@ def after_step(context, step):
         context.helper.take_screenshot_on_error(f"step_failure_{step.name}")
 
 def after_feature(context, feature):
-    for oid in context.feature_organizations:
-        requests.delete(f"{context.base_url}/organizations/{oid}")
-
+    
