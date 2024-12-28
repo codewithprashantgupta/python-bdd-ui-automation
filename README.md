@@ -21,7 +21,7 @@ Follow the steps below to set up the framework and run your tests.
 
 ####  1. Clone this repository and navigate to the project directory:
 ```bash
-git clone <repository-url>
+git clone https://github.com/codewithprashantgupta/python-generic-dependencies.git
 ```
 
 ####  2. Create and activate a virtual environment:
